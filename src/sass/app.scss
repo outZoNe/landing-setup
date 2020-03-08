@@ -1,0 +1,11 @@
+@import "~bootstrap";
+
+@font-face {
+  font-family: 'orange_juice';
+  src: url('/fonts/orange_juice_2.0.ttf') format('truetype');
+}
+
+body {
+  font-family: 'orange_juice';
+  color: red;
+}
